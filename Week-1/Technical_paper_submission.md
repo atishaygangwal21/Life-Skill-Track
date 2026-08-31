@@ -1,7 +1,6 @@
 # REST Architecture
 
 Understanding the architecture of how the client and server communicate with each other through Representational State Transfer (REST API).
-./images/rest-architecture.jpg
 ![image1](./images/image1.jpeg)
 
 ## 1. Introduction
@@ -28,7 +27,7 @@ In rest Architecture, the client the client sends an HTTP request to the server 
 **6.Hypermedia Links** - Embedded links in responses to enable dynamic navigation.
 **7.Status Codes** - Indicate the status of request (200,400).
 
-![image4](./images/image3.wpeb)
+![image4](./images/image4.png)
 
 ### 3. REST Architectural Constraints
 
