@@ -19,13 +19,13 @@ In rest Architecture, the client the client sends an HTTP request to the server 
 
 ### **REST Key Components**
 
-**1.Client** - Sends requests to access or modify resources.
-**2.Server** - Processes requests and sends appropriate responses.
-**3.Resources** - Key enitities exposed by APIs.
-**4.HTTP Methods** - Use to perform CRUD operations on the resources (GET, POST, PUT, DELETE).
-**5.Representations** - Data format representing resource state.
-**6.Hypermedia Links** - Embedded links in responses to enable dynamic navigation.
-**7.Status Codes** - Indicate the status of request (200,400).
+**1. Client** - Sends requests to access or modify resources.
+**2. Server** - Processes requests and sends appropriate responses.
+**3. Resources** - Key enitities exposed by APIs.
+**4. HTTP Methods** - Use to perform CRUD operations on the resources (GET, POST, PUT, DELETE).
+**5. Representations** - Data format representing resource state.
+**6. Hypermedia Links** - Embedded links in responses to enable dynamic navigation.
+**7. Status Codes** - Indicate the status of request (200,400).
 
 ![image4](./images/image4.png)
 
