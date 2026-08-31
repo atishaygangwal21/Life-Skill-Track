@@ -29,7 +29,7 @@ In rest Architecture, the client the client sends an HTTP request to the server 
 
 ![image4](./images/image4.png)
 
-### 3. REST Architectural Constraints
+## 3. REST Architectural Constraints
 
 There are six architectural constraints in RESTful API.
 
